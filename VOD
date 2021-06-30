@@ -1,6 +1,6 @@
 #EXTM3U
 
 #EXTINF: tvg-id="" tvg-name="Ripper Untold" group-title="Thriller, Mystery, Crime" tvg-logo="https://img.fmovies.app/xxrz/250x400/306/eb/36/eb36ff29c7360b29887313564cac0862/eb36ff29c7360b29887313564cac0862.jpg",Ripper Untold
-#EXTVLCOPT : sub-file= https://raw.githubusercontent.com/ijul2000/Movies/main/Subs/Ripper.Untold.2021.720p1080p.WEBRip.x264.AAC-%5BYTS.MX%5D-English.srt
+#EXTVLCOPT : https://raw.githubusercontent.com/ijul2000/Movies/main/Subs/Ripper.Untold.2021.720p1080p.WEBRip.x264.AAC-%5BYTS.MX%5D-English.srt
 #EXTVLCOPT : subsdec-encoding=UTF-8
 https://storage.googleapis.com/3454523512/60/6061ae18257ed6d22d0c460d077b077b.mp4
