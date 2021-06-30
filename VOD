@@ -1,6 +1,6 @@
 #EXTM3U
 
 #EXTINF: tvg-id="" tvg-name="Ripper Untold" group-title="Thriller, Mystery, Crime" tvg-logo="https://img.fmovies.app/xxrz/250x400/306/eb/36/eb36ff29c7360b29887313564cac0862/eb36ff29c7360b29887313564cac0862.jpg",Ripper Untold
-#EXTVLCOPT : https://yts-subs.com/subtitles/ripper-untold-2021-english-yify-332282
+#EXTVLCOPT : sub-file= https://github.com/ijul2000/Movies/blob/main/Subs/ripper%20untold%202021.zip
 #EXTVLCOPT : subsdec-encoding=UTF-8
 https://storage.googleapis.com/3454523512/60/6061ae18257ed6d22d0c460d077b077b.mp4
