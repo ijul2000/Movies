@@ -2,7 +2,7 @@
 
 #EXTINF: tvg-id="" tvg-name="Ripper Untold" group-title="Crime" tvg-logo="https://img.fmovies.app/xxrz/250x400/306/eb/36/eb36ff29c7360b29887313564cac0862/eb36ff29c7360b29887313564cac0862.jpg",Ripper Untold
 https://b-g-eu-3.betterstream.co:2222/v2-hls-playback/dd9d1b546c4223ec2b264b4e7493d81338a1d40c0e86a632d9759fea7e455470bc29e668ef4b4b4517c2d7edc8fb54b85a86faf338d764d8a018ed2cf8813fa42943490395b2dfe8cdc86aea98474296af9c096b9990c82db04fc4cc3e7d2b4830010c711d0632360cfc6d68620d3c490fa6d59017ff8dfa55722c65843fba2fccd7544b943a8b9eee4d5837dfe484b14e54b44c2460ecf8f30a4d951a592634/720/index.m3u8
-
+<description lang="en">Python Koding AIO contains a bunch of time saving modules that allows for quick and simple development. This is an alterrnate fork that uses ResolveURL instead of URL Resolver.</description>
 
 
 
